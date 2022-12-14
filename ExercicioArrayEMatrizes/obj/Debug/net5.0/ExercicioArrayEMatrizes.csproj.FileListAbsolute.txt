@@ -1,0 +1,16 @@
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\bin\Debug\net5.0\ExercicioArrayEMatrizes.exe
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\bin\Debug\net5.0\ExercicioArrayEMatrizes.deps.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\bin\Debug\net5.0\ExercicioArrayEMatrizes.runtimeconfig.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\bin\Debug\net5.0\ExercicioArrayEMatrizes.runtimeconfig.dev.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\bin\Debug\net5.0\ExercicioArrayEMatrizes.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\bin\Debug\net5.0\ExercicioArrayEMatrizes.pdb
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\obj\Debug\net5.0\ExercicioArrayEMatrizes.csproj.AssemblyReference.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\obj\Debug\net5.0\ExercicioArrayEMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\obj\Debug\net5.0\ExercicioArrayEMatrizes.AssemblyInfoInputs.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\obj\Debug\net5.0\ExercicioArrayEMatrizes.AssemblyInfo.cs
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\obj\Debug\net5.0\ExercicioArrayEMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\obj\Debug\net5.0\ExercicioArrayEMatrizes.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\obj\Debug\net5.0\refint\ExercicioArrayEMatrizes.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\obj\Debug\net5.0\ExercicioArrayEMatrizes.pdb
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\obj\Debug\net5.0\ExercicioArrayEMatrizes.genruntimeconfig.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExercicioArrayEMatrizes\ExercicioArrayEMatrizes\obj\Debug\net5.0\ref\ExercicioArrayEMatrizes.dll
